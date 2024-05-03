@@ -6,21 +6,21 @@ ol li {
     list-style-position: inside;
 }
 .exam {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Patric Bateman', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #table {
     line-height:200%
 }
 footer {
-    padding-top: 3px;
-    padding-bottom: 3px;
-    padding-left:  30px;
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left:  25px;
     background: #444;
     color: white;
 }
 a.foo:hover {
-  text-decoration-color: black;
-  color: black;
+  text-decoration-color: green;
+  color: red;
 }
 a.foo {
   text-decoration-color: white;
